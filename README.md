@@ -7,3 +7,7 @@ The exercises are implemented using **.NET** and **SQL** technologies, aiming to
 ---
 
 ![Book Cover](https://github.com/user-attachments/assets/fdc6cad7-412d-47b3-89d4-8c8c74c6a5b4)
+
+
+## License
+This project is licensed under the [MIT License](./LICENSE).
